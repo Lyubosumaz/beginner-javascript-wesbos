@@ -73,4 +73,3 @@ doStuff(name1);
 console.log(name1);
 doStuff2(inventory);
 console.log(inventory);
-
