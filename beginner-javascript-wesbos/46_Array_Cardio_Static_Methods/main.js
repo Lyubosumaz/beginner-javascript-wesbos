@@ -9,10 +9,10 @@ const meats = {
 };
 
 const prices = {
+    corn: 234,
     hotDog: 453,
     burger: 765,
     sausage: 634,
-
 };
 
 const orderTotals = [342, 1002, 523, 34, 634, 854, 1644, 2222];
